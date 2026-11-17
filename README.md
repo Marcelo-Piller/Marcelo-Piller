@@ -21,7 +21,9 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Linkzmo_♡-black" />
+
+  [![Site]((https://frelaa-web-lab.vercel.app))
+
 </div>
       
 <br>
