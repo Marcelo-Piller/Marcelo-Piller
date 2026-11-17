@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <b>`Linkzmo`</b>
+  <b>`LINKZMO`</b>
   <samp>
       <br>
       Hi there! I'm <b>Marcelo Piller</b>
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  [![Site]((https://frelaa-web-lab.vercel.app))
+[![LINKZMO](https://img.shields.io/badge/Clique_aqui_para_ver_o_meu_site!!-black)](https://frelaa-web-lab.vercel.app)
 
 </div>
       
